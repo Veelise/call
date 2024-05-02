@@ -1,1 +1,1 @@
-print("Hello world!"ывотаы)
+print("Hello world!"ывотаы)dfsjkn
